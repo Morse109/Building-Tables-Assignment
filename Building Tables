@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fictional City Populations</title>
+    <style>
+        table {
+            width: 50%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Fictional City Populations</h2>
+
+    <table>
+        <tr>
+            <th>City</th>
+            <th>Population</th>
+        </tr>
+        <tr>
+            <td>New Metroville</td>
+            <td>5,000,000</td>
+        </tr>
+        <tr>
+            <td>Oceanfront City</td>
+            <td>2,500,000</td>
+        </tr>
+        <tr>
+            <td>Mountain Vista</td>
+            <td>1,800,000</td>
+        </tr>
+        <tr>
+            <td>Desert Springs</td>
+            <td>1,200,000</td>
+        </tr>
+        <tr>
+            <td>Greenfield Heights</td>
+            <td>900,000</td>
+        </tr>
+    </table>
+
+    <h3>Conclusions:</h3>
+    <ul>
+        <li>New Metroville is the most populous city among the fictional cities.</li>
+        <li>Greenfield Heights has the smallest population among the cities listed.</li>
+        <li>The total population of all five cities is 11,400,000.</li>
+    </ul>
+
+</body>
+</html>
